@@ -77,22 +77,9 @@ header {
 body {
   font-family: Arial, sans-serif;
 }
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .navbar {
     padding: 2px;
-    gap: 5px;
-  }
-
-  .navbar a {
-    padding: 2.5px 2.5px;
-  }
-
-  .dropdown-content a {
-    padding: 2.5px;
-  }
-
-  .logo img {
-    height: 30px;
-    margin-right: 5px;
+    gap: 3px;
   }
 }

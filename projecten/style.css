@@ -80,6 +80,10 @@ body {
 @media (max-width: 800px) {
   .navbar {
     padding: 2px;
-    gap: 3px;
+    gap: 1px;
+  }
+  .logo img {
+    height: 50px;
+    margin-right: 1px;
   }
 }
